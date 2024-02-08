@@ -1,6 +1,6 @@
 @font-face {
- font-family: extradionary;
+ font-family: Extradionary;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url(https://rawcdn.githack.com/wearenerdsmith/worldanvil/437e69dbdfc7334a9d40b0d9d73c96c9d8ed6187/EXTRADIONARY%20-%20V1.ttf) ;
 }
